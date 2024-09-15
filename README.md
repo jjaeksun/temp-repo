@@ -1,1 +1,1 @@
-# temp-repo
+lab2 github study
